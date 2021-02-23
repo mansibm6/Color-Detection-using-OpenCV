@@ -1,2 +1,2 @@
 # Color-Detector
-run the program from terminal "python main.py -i test.jpg"
+open terminal in the main program folder and run the command "python main.py -i test.jpg"
